@@ -1,4 +1,4 @@
 Sejam bem vindos ao Labe-commerce, esse repositório contém um esqueleto de app React e um .gitignore.
 ## teste de brach
 
-testes 2
+Iniciando o projeto no git 

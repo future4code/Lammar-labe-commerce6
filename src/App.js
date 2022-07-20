@@ -1,4 +1,5 @@
 import React from 'react';
+
 import Filtro from './components/Filtro';
 import {DivPai} from '.Slyle';
 
@@ -9,6 +10,15 @@ function App() {
    <Filtro/>
 
    </DivPai>
+import { Filtro } from './Components/Filtro';
+
+
+function App() {
+  return (
+    <div >
+      <Filtro/>
+    </div>
+
   );
 }
 

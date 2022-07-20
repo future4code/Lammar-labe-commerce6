@@ -1,13 +1,11 @@
 import React from 'react';
-import logo from './logo.svg';
-import './App.css';
+import { Filtro } from './Components/Filtro';
 
-// brancjh iniciando
 
 function App() {
   return (
-    <div className="App">
-      
+    <div >
+      <Filtro/>
     </div>
   );
 }

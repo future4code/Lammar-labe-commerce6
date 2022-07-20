@@ -1,14 +1,14 @@
 import React from 'react';
-import logo from './logo.svg';
-import './App.css';
-
-// brancjh iniciando
+import Filtro from './components/Filtro';
+import {DivPai} from '.Slyle';
 
 function App() {
   return (
-    <div className="App">
-      
-    </div>
+   <DivPai>
+
+   <Filtro/>
+
+   </DivPai>
   );
 }
 

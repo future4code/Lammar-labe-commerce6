@@ -7,7 +7,7 @@ export function Filtro(){
       <Estilo>
            <Filters> 
             Valor Mínimo:
-            <input type={"number"} /> 
+            <input type= {"number"}  /> 
              </Filters>
             
              <Filters> 
@@ -22,6 +22,11 @@ export function Filtro(){
       
       </Estilo>
 );
+
+
+
 }
+
+
 
 export default Filtro

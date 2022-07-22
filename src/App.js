@@ -1,5 +1,6 @@
 import React, {useState} from 'react';
 import { Filtro } from './Components/Filtro';
+import Home from './Components/Home';
 
 import jobList from "./MockDados.json";
 
@@ -10,10 +11,8 @@ function App() {
 
   return (
     <div >
-      
-      <Filtro/>
-     
-     
+      {/* <Filtro/> */}
+      <Home/>
     </div>
   );
 }

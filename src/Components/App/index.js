@@ -1,5 +1,4 @@
 import React, { useState } from "react"
-import { Header } from "../Carrinho";
 import { Card } from "../Card";
 import { AppContainer, ListContainer } from "./style";
 import { Filters } from "../Filters";

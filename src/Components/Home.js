@@ -7,7 +7,7 @@ export function Home(){
     return(
         <>
         <Cabecalho>
-        <p>Quantidade de Produto: 2</p>
+        <p>Quantidade de Produto: 5</p>
         <label>
             Ordenação:
             <select>

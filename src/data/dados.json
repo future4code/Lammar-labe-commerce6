@@ -1,0 +1,42 @@
+[
+
+      {
+      "id": "1",
+      "title": "Camisa Saturno", 
+      "description": "Decoração de interiores",
+      "price": 80,
+      "img":"https://img.elo7.com.br/product/main/2E39A86/camiseta-blusa-nasa-astronauta-espacial-espaco-agencia-g2.jpg"
+   },
+   {
+      "id": "2",
+      "title": "Camisa Astronauto",
+      "description": "Implementador de páginas web",
+      "price": 200,
+      "img": "https://http2.mlstatic.com/D_NQ_NP_826799-MLB47228428851_082021-O.webp"
+   },
+   {
+      "id": "3",
+      "title": "Camisa Nasa",
+      "description": "Troco o óleo do seu carro em domicílio.",
+      "price": 50
+   },
+   {
+      "id": "4",
+      "title": "Camisa Nebulosa",
+      "description": "",
+      "price": 80
+   },
+   {
+      "id": "5",
+      "title": "Camisa Sol",
+      "description": "",
+      "price": 100
+      
+   },
+   {
+      "id": "6",
+      "title": "Camisa Júpiter",
+      "description": "",
+      "price": 150
+   }
+]
